@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-Project Aether - Auxiliary Diagnostic Tool (Node-09)
-Run at your own risk.
+Nexus Dynamics - Core System & Environment Diagnostic Utility
+Module: system_diagnostics.py
+Classification: Internal Engineering Health Check (Rev 4.04)
 """
 
 import sys
@@ -43,7 +44,7 @@ def print_banner():
   | _ \/ _ \/ __|_   _|_ _| \| |/ __|   / _ \ / _ \
   |  _/ (_) \__ \ | |  | || .` | (_ |  | (_) | (_) |
   |_|  \___/|___/ |_| |___|_|\_|\___|   \___/ \___/ 
-       >> PROJECT AETHER // AUXILIARY RECON PROTOCOL v4.04 <<
+      >> NEXUS DYNAMICS // SYSTEM DIAGNOSTIC PROTOCOL v4.04 <<
  =========================================================================
     """
     print(banner)
@@ -68,17 +69,17 @@ def ask_question(question, options):
 
 def main():
     print_banner()
-    slow_print("[i] Initializing Deep Archive Telemetry Probe...", delay=0.015)
+    slow_print("[i] Initializing Nexus Infrastructure Health Probe...", delay=0.015)
     time.sleep(0.3)
     
     # Progress animation sequence
     fake_progress("Probing local heap allocations", duration=0.6)
     fake_progress("Scanning AST for steganographic payloads", duration=0.7)
-    fake_progress("Evaluating participant curiosity index", duration=0.8)
+    fake_progress("Evaluating developer curiosity index", duration=0.8)
     fake_progress("Bypassing imaginary quantum firewalls", duration=0.8)
 
     print("\n" + "*" * 65)
-    slow_print("[!] ARCHIVE ANOMALY DETECTED: INTERACTIVE IDENTITY VERIFICATION", delay=0.015)
+    slow_print("[!] NEXUS VERIFICATION INTERCEPT: ONBOARDING APTITUDE CHECK", delay=0.015)
     print("*" * 65)
     time.sleep(0.3)
 

@@ -5,3 +5,4 @@
 - [ ] **SENTINAL**
 - [ ] meeting at 7
 - [ ] Set up project scaffolding
+
