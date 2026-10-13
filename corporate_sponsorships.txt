@@ -7,9 +7,7 @@ SUBJECT: ANNUAL COMMUNITY PARTNERSHIP & FOSS CELL GECT INITIATIVE
 
 EXECUTIVE SUMMARY:
 Nexus Dynamics is proud to officially confirm our community partnership with
-FOSS Cell GECT (Free and Open Source Software Cell at Government Engineering
-College Thrissur).
-
+FOSS Cell GECT.
 At Nexus Dynamics, our engineering foundation is built on open standards,
 collaborative git workflows, and free software tooling. We believe the future
 of technology belongs to communities that learn, inspect, and build in public.

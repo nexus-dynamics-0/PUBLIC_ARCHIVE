@@ -2,11 +2,11 @@ PUBLIC DISCUSSION BOARD
 
 RECOVERED POST
 
-Account: @ghost_in_stack
-Thread: What Project Aether Was Hiding
+Account: @ghost_in_stack <br>
+Thread: What **Project** Aether Was Hiding <br>
 Status: Recovered
 
-The AETHER-09 transfers were not ordinary system backups. 
+The AETHER-09 transfers were not ordinary system backups.
 
 The internal reports describe the transfers as routine maintenance, but the original access records tell a different story.
 
@@ -18,6 +18,4 @@ ARCHIVE NOTE
 
 Things are not always what they seem; the first appearance deceives many; the intelligence of a few perceives what has been carefully hidden.
 
-
-— @ghost_in_stack
-
+— @ghost-in-stack

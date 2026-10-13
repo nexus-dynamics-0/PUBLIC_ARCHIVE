@@ -3,7 +3,7 @@
 > **Document ID:** NX-PROC-2026-FOOD-01  
 > **Classification:** Internal Operations & Employee Sustenance  
 > **Authorized Partner:** Six Snacks (GECT Campus Branch)  
-> **Corporate Relationship:** Official Event Sponsor & Designated Fuel Station  
+> **Corporate Relationship:** Official Event Sponsor & Designated Fuel Station
 
 ---
 
@@ -20,30 +20,35 @@ A massive, warm, and crunchy **THANK YOU** to **Six Snacks** for keeping our eng
 Nexus engineers have empirically benchmarked the following sustenance assets:
 
 ### 1. 🧆 The Legendary Hot Cutlet
-* **Procurement Code:** `NX-CUTLET-01`
-* **Crunch Factor:** 10/10
-* **System Effect:** Instantaneous neural defragmentation. When pointer arithmetic in C throws an unexplained `SIGSEGV`, a single warm cutlet resets your cognitive stack.
+
+- **Procurement Code:** `NX-CUTLET-01`
+- **Crunch Factor:** 10/10
+- **System Effect:** Instantaneous neural defragmentation. When pointer arithmetic in C throws an unexplained `SIGSEGV`, a single warm cutlet resets your cognitive stack.
 
 ### 2. 🥟 The Crispy Samosa
-* **Procurement Code:** `NX-SAMOSA-01`
-* **Structural Integrity:** Flawless golden pyramids.
-* **Recommended Protocol:** Consume hot with mint chutney while debating code architecture with your teammates.
+
+- **Procurement Code:** `NX-SAMOSA-01`
+- **Structural Integrity:** Flawless golden pyramids.
+- **Recommended Protocol:** Consume hot with mint chutney while debating code architecture with your teammates.
 
 ### 3. ☕ Kadum Chaya / Cutting Chai
-* **Procurement Code:** `NX-CHAI-KADUM`
-* **Latency to Serve:** Under 2 minutes.
-* **System Boost:** +50% focus, +35% pattern recognition, -90% fatigue.
-* **Engineering Note:** The primary liquid driver of all Nexus software releases.
+
+- **Procurement Code:** `NX-CHAI-KADUM`
+- **Latency to Serve:** Under 2 minutes.
+- **System Boost:** +50% focus, +35% pattern recognition, -90% fatigue.
+- **Engineering Note:** The primary liquid driver of all Nexus software releases.
 
 ### 4. 🥤 Boost Kulukki & Fresh Lime Refreshers
-* **Procurement Code:** `NX-REFRESH-LIME`
-* **Cooling Coefficient:** 100%
-* **Ideal Use Case:** Mid-afternoon puzzle fatigue and high-temperature brain overload.
+
+- **Procurement Code:** `NX-REFRESH-LIME`
+- **Cooling Coefficient:** 100%
+- **Ideal Use Case:** Mid-afternoon puzzle fatigue and high-temperature brain overload.
 
 ### 5. 🌯 Shawarma & Evening Quick Rolls
-* **Procurement Code:** `NX-ROLL-HIGH-TP`
-* **Portability:** 10/10 (can be consumed during active keyboard usage).
-* **Throughput:** Maximum caloric efficiency during tight sprints.
+
+- **Procurement Code:** `NX-ROLL-HIGH-TP`
+- **Portability:** 10/10 (can be consumed during active keyboard usage).
+- **Throughput:** Maximum caloric efficiency during tight sprints.
 
 ---
 

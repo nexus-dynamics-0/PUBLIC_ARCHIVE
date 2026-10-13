@@ -7,7 +7,6 @@ Classification: Internal Engineering Health Check (Rev 4.04)
 
 import sys
 import time
-
 # Ensure safe output encoding on various terminal environments
 if hasattr(sys.stdout, "reconfigure"):
     try:
@@ -21,7 +20,7 @@ def slow_print(text, delay=0.015, newline=True):
         sys.stdout.flush()
         time.sleep(delay)
     if newline:
-        sys.stdout.write("\n")
+        sys.stdout.write("\n") #NOT EVERYTHING IS IMP
         sys.stdout.flush()
 
 def fake_progress(task_name, duration=0.8):
